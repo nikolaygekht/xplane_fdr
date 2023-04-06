@@ -1,4 +1,5 @@
 SDK/
 build64/
 cmake/
-XPSDK401.zip
+*.zip
+*.xpl
